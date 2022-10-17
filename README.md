@@ -1,6 +1,10 @@
 ### Olá, me chamo Lucas Kauã.
 
-<p>💻Sou desenvolvedor web Front-end.</p>
+<p>
+💻 Sou desenvolvedor web Front-end.<br>
+👇 Acesse meus projetos nos repositórios abaixo.
+</p>
+
 
 <div align="center">
   <a href="https://github.com/lucaskauaa">
